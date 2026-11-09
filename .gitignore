@@ -1,0 +1,15 @@
+# Bases de dados locais
+dados/*.csv
+dados/*.xlsx
+
+# Resultados gerados
+resultados/*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor
+.vscode/
